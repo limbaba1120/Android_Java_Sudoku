@@ -1,7 +1,7 @@
 ﻿# Android_Java_Sudoku
  
 ## 🚀 Project
-- (2023.06 ~ 12) Sudoku Project 
+- (2022.06 ~ 12) Sudoku Project 
   - 안드로이드 자바 프로젝트
 
 ## 📖 상세 내용
